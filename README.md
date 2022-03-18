@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FariasMarina
+- 👋 Hi, I’m @diLunno
 - 👀 I’m interested in technology, trips, work and music!
 - 🌱 I’m currently learning UX/UI, front end
 - 📫 How to reach me: fariasmarinalr@gmail.com
