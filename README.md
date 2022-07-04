@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diLunno
 - 👀 I’m interested in technology, trips, work and music!
-- 🌱 I’m currently learning UX/UI, front end
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: fariasmarinalr@gmail.com
 
 <!---
