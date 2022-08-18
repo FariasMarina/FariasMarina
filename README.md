@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2016/02/03/08/32/banner-1176676_960_720.jpg)](https://www.linkedin.com/in/marinafariastech)
 
 <h1 align="center">Hi 👋, I'm Marina Farias</h1>
 <h3 align="center">Blumenau, SC - Brazil</h3>
