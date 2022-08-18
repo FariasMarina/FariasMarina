@@ -6,7 +6,7 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif">
 
-<p align="left"> <a href="https://twitter.com/dilunno" target="blank"><img src="https://img.shields.io/twitter/follow/dilunno?logo=twitter&style=for-the-badge" alt="dilunno" /></a> </p>
+<p align="left"> <a href="https://twitter.com/d_lunno" target="blank"><img src="https://img.shields.io/twitter/follow/dilunno?logo=twitter&style=for-the-badge" alt="dilunno" /></a> </p>
 
 - 🔭 I’m currently in the tech program **Entra 21**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dilunno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilunno" height="30" width="40" /></a>
+<a href="https://twitter.com/d_lunno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilunno" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marinafariastech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marinafariastech" height="30" width="40" /></a>
 </p>
 
