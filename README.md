@@ -5,8 +5,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/d_lunno" target="blank"><img src="https://img.shields.io/twitter/follow/d_lunno?logo=twitter&style=for-the-badge" alt="d_lunno" /></a> </p>
-
 - 🔭 I’m currently in the tech program **Entra 21**
 
 - 📫 How to reach me **fariasmarinalr@gmail.com**
