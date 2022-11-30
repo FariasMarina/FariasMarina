@@ -1,15 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Marina Farias</h1>
+
 <h3 align="center">Blumenau, SC - Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif">
 
-
-
-- 🔭 I’m currently in the tech program **Entra 21**
-
 - 📫 How to reach me **fariasmarinalr@gmail.com**
-
-- ⚡ Fun fact **You should drink more water**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
